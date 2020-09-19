@@ -1,0 +1,8 @@
+Modules:
+1.Software:
+a. Chatbot: UI, front end
+b. Speech Intelligence: Emotion detection, Stress Detection
+c. Learning behaviour
+
+2.Hardware:
+a. Core Processing: Raspberry Pi, Movidius Compute Stick

@@ -1,0 +1,17 @@
+﻿Phase one :
+    • understanding the domain: sentiment analysis on social media
+    • literature survey
+    • sub-domains include: emotion and stress detection using sentiment analyser
+				reinforced Learning for decision making
+    • referring the modules based on implementation methods(spacy/NLTK)
+    • implementation
+
+Phase two:
+    • raspberry pi 3 and subsystems featuring LED display to execute instructions per cycle time.
+    • running high level datasets from intel movidious neural compute stick - a unique device designed to facilitate development, tuning and deployment of deep neural networks where the nodes require computation to be performed on-device where power consumption, latency and privacy are crucial factors in product performance. Featuring Myriad VPU, the Neural Compute Stick is able to perform the complex, highly parallel mathematical operations required for modern deep neural networks at high speed (vision processing unit)
+    • testing the hardware system with maximum testcases with numerous datasets
+
+Phase three:
+    • integrating phase one and phase two for making the first-ever unique prototype which facilitates the neural computing through integrated Pi and neural compute stick
+    • testing for errors and improving accuracy accordingly
+

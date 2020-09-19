@@ -1,0 +1,14 @@
+#Problem Definition:
+	
+An intelligence system is an autonomous system that is capable of performing actions without direct dependence on the user. 
+An intelligence must be able to prompt or suggest to the user the list or possibilities of the actions that can be performed or 
+are possible at the given moment with the decision to act left to the user. 
+It must also be adaptive to a given situation and must be able to guide the user to a safer or convenient situation 
+depending on the severity of the given situation. 
+
+#Next meeting:
+Agenda:
+-Decide on the Phases.
+-Decide on mapping.
+-Back end working.
+-How to perform actions.
